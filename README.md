@@ -1,0 +1,1 @@
+Este repo contiene los ejerecios realizados del 0x00. Shell, basics
